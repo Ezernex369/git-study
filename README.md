@@ -1,2 +1,1 @@
-"# git-study" 
-"# git-study" 
+# Git หัดใช้เบื้องต้น
